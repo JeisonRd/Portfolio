@@ -1,5 +1,7 @@
 Portfolio Project
+
 Overview
+
 This portfolio project is designed to showcase and highlight the skills, experience, and projects of an individual. It features a modern and responsive design, utilizing Bootstrap libraries to enhance the user interface and overall user experience.
 
 Features
